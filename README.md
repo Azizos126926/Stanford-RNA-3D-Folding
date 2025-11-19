@@ -1,7 +1,7 @@
 # Stanford-RNA-3D-Folding
 # TEAM: Aziz Karaborni
 Kaggle Competition: Solve RNA structure prediction, one of biology's remaining grand challenges
-# 🥇 Result: Bronze Medal — Kaggle**
+# Result: Bronze Medal — Kaggle
 
 # Overview
 If you sat down to complete a puzzle without knowing what it should look like, you’d have to rely on patterns and logic to piece it together. In the same way, predicting Ribonucleic acid (RNA)’s 3D structure involves using only its sequence to figure out how it folds into the structures that define its function.
